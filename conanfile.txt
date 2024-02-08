@@ -1,0 +1,7 @@
+[requires]
+zlib/1.2.11
+libvips/8.14.2
+
+[generators]
+CMakeDeps
+CMakeToolchain
